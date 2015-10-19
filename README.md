@@ -1,1 +1,1 @@
-# camera_qt_linux_v4l2
+this qt project build and run well on ubuntu.
